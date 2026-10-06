@@ -1,0 +1,54 @@
+[
+  {
+    "name": "kennzahl",
+    "type": "STRING"
+  },
+  {
+    "name": "Jan",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Feb",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Mar",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Apr",
+    "type": "FLOAT"
+  },
+  {
+    "name": "May",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Jun",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Jul",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Aug",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Sep",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Oct",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Nov",
+    "type": "FLOAT"
+  },
+  {
+    "name": "Dec",
+    "type": "FLOAT"
+  }
+]

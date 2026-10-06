@@ -1,0 +1,6 @@
+# Build stage
+FROM node:16
+WORKDIR /app
+
+EXPOSE 8081
+CMD ["npm", "run", "serve"]

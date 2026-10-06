@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "bundesland",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "bundesland_bez",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "bundesland_gebiet",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "bundesland_gebiet_bez",
+    "type": "STRING"
+  }
+]

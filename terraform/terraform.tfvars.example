@@ -1,0 +1,2 @@
+project          = "your-project-id"
+credentials_file = "./keyfile/service-account.json"
